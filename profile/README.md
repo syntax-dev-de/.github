@@ -1,8 +1,8 @@
 # About us
-Hi, we are M-Development, a development server for FiveM Scripts and more.
+Hi, we are Syntax Development, a development server for FiveM Scripts and more.
 
 # Our Links
-https://discord.gg/e6ZENhPxQm
+https://discord.gg/
 
 # Our Team
 <div align="center">
