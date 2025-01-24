@@ -2,7 +2,7 @@
 Hi, we are Syntax Development, a development server for FiveM Scripts and more.
 
 # Our Links
-https://discord.gg/
+https://discord.gg/syntaxdev
 
 # Our Team
 <div align="center">
